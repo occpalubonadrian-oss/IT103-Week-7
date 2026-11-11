@@ -6,7 +6,7 @@
 // ==========================================
 
 
-// 1. MATHEMATICAL FUNCTION
+//  MATHEMATICAL FUNCTION
 /*
  * Function Name: computeAverage
  * Purpose: Calculate the average of three numbers.
@@ -30,7 +30,7 @@ function computeAverage(a, b, c) {
 }
 
 
-// 2. STRING FUNCTION
+//  STRING FUNCTION
 /*
  * Function Name: formatName
  * Purpose: Format a person's name.
@@ -45,7 +45,7 @@ function formatName(first, last) {
 }
 
 
-// 3. DATA-PROCESSING FUNCTION
+// DATA-PROCESSING FUNCTION
 /*
  * Function Name: countPassing
  * Purpose: Count the number of students who passed.
@@ -73,7 +73,7 @@ function countPassing(scores, passingMark = 75) {
 }
 
 
-// 4. REUSABLE VAT FUNCTION
+// REUSABLE VAT FUNCTION
 /*
  * Function Name: totalWithVat
  * Purpose: Calculate the total price including VAT.
